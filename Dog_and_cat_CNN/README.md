@@ -12,10 +12,12 @@ Ensure you have the following installed:
 
 You can install necessary packages using:
 ```bash
-pip install requestment
+pip install requirement.txt
 ```
 ### Dataset
 Download the dataset from Kaggle:
 ```
 https://www.kaggle.com/competitions/dogs-vs-cats/data
 ```
+### Conclusion
+This project provides a simple way to classify images of dogs and cats using a trained model. Follow the steps in this README to set up the dataset, split it into training and testing sets, and run predictions.
